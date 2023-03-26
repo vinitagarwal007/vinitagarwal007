@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <img align="left" width="40%" src="https://leetcode.card.workers.dev/vinitagarwal007/?theme=dark&font=baloo&extension=null"/>
 <br>
 <img align="left" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
-
+<br>
 <img align="left" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/>
 
 <img align="left" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
