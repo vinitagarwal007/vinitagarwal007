@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <img align="left" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 
 <img align="left" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-
+<br>
 <h1> Some Stats </h1>
 <!-- <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vinitagarwal007&show_icons=true&theme=radical&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/> -->
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitagarwal007&layout=compact&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
