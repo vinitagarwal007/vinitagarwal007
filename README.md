@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: (Instagram/Linkedin/github)/vinitagarwal007
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vinitagarwal007&show_icons=true&theme=radical&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
-<br>
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitagarwal007&layout=compact&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
-<br>
 <img align="left" width="40%" src="https://leetcode.card.workers.dev/vinitagarwal007/?theme=dark&font=baloo&extension=null"/>
 <br>
 <img align="left" src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"/>
