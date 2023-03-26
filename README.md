@@ -35,3 +35,6 @@ Here are some ideas to get you started:
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitagarwal007&layout=compact&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
 
 <img align="left" width="40%" src="https://leetcode.card.workers.dev/vinitagarwal007/?theme=dark&font=baloo&extension=null"/>
+
+<h1>Contact Me !!</h1>
+<a href ="https://www.instagram.com/vinit_agarwal007/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
