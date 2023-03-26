@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 # hi there, I'm Vinit Agarwal!👋
 
-- 📫 How to reach me: (Instagram/Linkedin/github)/vnitagarwal007
+- 📫 How to reach me: (Instagram/Linkedin/github)/vinitagarwal007
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Utkarshxf&show_icons=true&theme=radical&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vinitagarwal007&show_icons=true&theme=radical&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
 
-<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshxf&layout=compact&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitagarwal007&layout=compact&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
 
 <img align="left" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
