@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 <h1> Some Stats </h1>
 <div>
 <img align="left" width = "40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinitagarwal007&layout=compact&bg_color=2f2736&text_color=ffffff&title_color=df4ee1&border_color=2f2837"/>
-<img width = "40%" src="https://leetcode.card.workers.dev/vinitagarwal007/?theme=dark&font=baloo"/>
+<a href ="https://leetcode.com/vinitagarwal007/" target = "_blank"><img width = "40%" src="https://leetcode.card.workers.dev/vinitagarwal007/?theme=dark&font=baloo"/></a>
 </div>
 <br><br>
 <h1>Contact Me !!</h1>
